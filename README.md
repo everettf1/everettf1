@@ -77,6 +77,8 @@ nilearn  sleap  playwright
 ```
 
 <p align="center">
+  <a href="https://github.com/everettf1/gyrus"><code>gyrus</code></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/everett-freeman-b3b4ba2ab/"><code>linkedin</code></a>
 </p>
 
