@@ -11,11 +11,11 @@
 
 <p align="center"><sub>left: top7, a computationally designed protein (pdb 1qys). right: the cortex from gyrus, colored by yeo network.</sub></p>
 
-What I really want to understand is consciousness, and especially the hard problem: how biological computation leads to subjective experience (I do not think they are the same). 'How is it that a collection of neurons get together in just the right way to experience the world as we do?'
+What I really want to understand is consciousness, and especially the hard problem of consciousness; that is, how biological computation leads to subjective experience, or qualia. 'How is it that a collection of neurons get together in just the right way to experience the world as we do?'
 
-I also want to be able to design molecules, because I think that's really cool and because if I could do that, maybe I could make molecules that were less destructively addictive. Addiction is where those two meet, since it is not something you can objectively measure. It is also one of the hardest things to research, since you can't measure "wanting".
+I also want to be able to design molecules, because I think that's really cool and because if I could do that, maybe I could make molecules that were less destructively (and structurally) addictive. Addiction is where those two meet, since it is not something you can objectively measure. It is also one of the hardest things to research, since you can't really measure "wanting".
 
-So far that's meant protein design at the Institute for Protein Design and AI at NASA, and I feel like there's more to discover.
+So far, this has meant protein design at the Institute for Protein Design and neuropharma at UW SoM, alongside AI at NASA; of course, I feel like there's more to discover.
 
 ```text
 $ ls ~/work
