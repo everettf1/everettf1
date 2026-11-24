@@ -61,9 +61,8 @@ projects
 │   3d brain atlas in webgl
 │   186 regions, 7 parcellations
 │   628 pubmed-checked entries
-├── orbit
-│   retrieval for nasa kennedy
-│   bm25 + vector + graph search
+├── NASA
+│   AI/ML for kennedy space center
 └── recoverpath
     opioid recovery app
     led 88 interns across 6 teams
